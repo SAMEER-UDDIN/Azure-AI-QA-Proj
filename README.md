@@ -15,15 +15,15 @@ This project demonstrates how to build a retrieval-based chatbot using your own 
 
 ---
 
-## 🧩 Project Structure
+## 🧩 Workflow
+<img width="603" height="258" alt="Screenshot 2025-10-06 112353" src="https://github.com/user-attachments/assets/6e52efa0-0af7-4a8f-bb8e-57e14a12a34b" />
 
-Azure-AI-QA-Proj/
-├── - azurechatbotdemo.py # Streamlit chatbot app
-├── - datainsert.py # Uploads CSV data into Azure Table
-├── - azurelib2.csv # Dataset (Q&A pairs)
-├── - requirements.txt # Python dependencies
-├── - .gitignore # Ignored files and folders
-└── - README.md # Documentation
+
+
+## 🧩 Demo
+<img width="931" height="842" alt="Screenshot 2025-10-06 112242" src="https://github.com/user-attachments/assets/608485a0-9549-4a47-b260-a463a59f7d20" />
+
+
 
 ## Create a .env file in the root directory or set environment variables manually:
 
